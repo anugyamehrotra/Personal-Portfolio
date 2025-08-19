@@ -31,8 +31,8 @@ Access the project via this [link](inslinklater), or download all files and set-
 First, clone the portfolio Repository to your local machine:
 
 ```bash
-git clone ins link later
-cd personalPortfolio
+git clone https://github.com/anugyamehrotra/Personal-Portfolio.git
+cd Personal-Portfolio
 ```
 ---
 
