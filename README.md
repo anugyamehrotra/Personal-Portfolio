@@ -47,4 +47,4 @@ eduPortal is protected under the MIT License.
 You may view, use, and modify the code under the terms of that license.  
 
 For full details, see the LICENSE.md file at:  
-[LICENSE]()
+[LICENSE](https://github.com/anugyamehrotra/Personal-Portfolio/blob/main/LICENSE)
