@@ -289,7 +289,6 @@ body {
   animation-delay: 0.56s;
 }
 
-
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
@@ -314,12 +313,10 @@ body {
   background: #0f172a;
 }
 
-
 * {
   scrollbar-width: thin;
   scrollbar-color: #000000 #000000;
 }
-
 
 .sidebar-scroll::-webkit-scrollbar-thumb {
   background: #000000;
@@ -334,7 +331,6 @@ body {
   background-size: 4px 4px;
   opacity: 0.9;
 }
-
 
 body::before {
   content: "";
