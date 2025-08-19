@@ -24,7 +24,7 @@ Follow these steps to get the Personal Portfolio project up and running locally 
 <br>
 
 ### 🔗 Live Demo  
-Access the project via this [link](inslinklater), or download all files and set-up manually.  
+Access the project via this [link](https://personal-portfolio-vercel-host.vercel.app/), or download all files and set-up manually.  
 
 
 ### 📁 Clone The Repository  
