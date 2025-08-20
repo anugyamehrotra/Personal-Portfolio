@@ -39,6 +39,12 @@ cd Personal-Portfolio
 ## 👩‍💻 Created for Educational Use
 This project is intended as a sample starting point for beginners in the Web Dev track of NP Hacks. Students are encouraged to expand on it and make it their own!
 
+To view/modify all Figma elements found in this project, you may find the elements here at [Personal Portfolio Figma Template](https://www.figma.com/design/GB0Hfu61wftGz6HTNfo5SM/personal-portfolio-projects-figma-template?node-id=0-1) 
+
+This project is inspired on the work of [lenxism's](https://v0.app/user/lenxism) [Template](https://v0.app/community/portfolio-template-by-v0-X6XcPALhbJD)
+
+[Check our their work @ v0](https://le0.vercel.app/)
+
 ---
 
 ### 📄 License
