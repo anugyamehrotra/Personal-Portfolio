@@ -49,7 +49,7 @@ This project is inspired on the work of [lenxism's](https://v0.app/user/lenxism)
 
 ### 📄 License
 
-eduPortal is protected under the MIT License.  
+This project is protected under the MIT License.  
 You may view, use, and modify the code under the terms of that license.  
 
 For full details, see the LICENSE.md file at:  
